@@ -1,0 +1,5 @@
+kits:
+  starter:
+    delay: 500
+    items:
+    - cooked_beef 64

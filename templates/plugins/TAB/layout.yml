@@ -1,0 +1,30 @@
+enabled: true
+direction: COLUMNS
+default-skin: mineskin:1753261242
+enable-remaining-players-text: false
+remaining-players-text: '... and %s more'
+layouts:
+  staff:
+    condition: permission:bsn.manager
+    fixed-slots:
+    - 1|&#1153ed     BlueSaber&fNetwork MNGR View
+    - '2|&8           &m                       '
+    - '3|&#1153ed                    TPS&f:'
+    - 4|&b                  %tps%
+    - '5|&8&8           &m                       '
+    - '6|&#1153ed                    RAM&f:'
+    - 7|&a            %memory-used%MB &8/&c %memory-max%MB
+    - '8|&8&8           &m                       '
+    - '9|&#1153ed                 Server&f:'
+    - 10|&f                    [replace-me]
+    - '11|&8&8           &m                       '
+    - 12|&f%displayname% / %discordsrv_user_name%
+    - '13|&8&8           &m                       '
+    - '14|%supervanish_isvanished%'
+    - '15|&8&8           &m                       '
+    groups:
+      staff:
+        condition: permission:bsn.manager
+        slots:
+        - 21-40
+empty-slot-ping-value: 1000

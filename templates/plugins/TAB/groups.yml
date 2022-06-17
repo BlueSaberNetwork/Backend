@@ -1,0 +1,20 @@
+manager:
+  header:
+  - '&#1153edServer Name'
+  - '&8&8&m                       &r'
+  - 'CCSU VGC | MANAGEMENT VIEW'
+  - 'SERVER UPTIME: %server_uptime%'
+  footer:
+  - 'TICKS PER SECOND: %server_tps_1%&r'
+  - 'CHUNKS GENNED: %server_total_chunks%'
+  - '&8&8&m                       '
+  - '&#1153edPing: &f%ping% &7| &#1153edTPS: &f%tps%'
+  tabsuffix: ' %discordsrv_user_top_role_color_hex%%discordsrv_user_name%%luckperms_suffix%%afk%'
+_DEFAULT_:
+  tabprefix: '%luckperms_prefix%'
+  tagprefix: '%luckperms_prefix%'
+  tabsuffix: '%luckperms_suffix%%afk%'
+  tagsuffix: '%luckperms_suffix%%afk%'
+  customtabname: '%essentials_nickname%'
+  customtagname: '%essentials_nickname%'
+  belowname: '%health% HP &8|&r %discordsrv_user_effective_name%'
