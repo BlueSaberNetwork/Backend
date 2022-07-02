@@ -1,20 +1,23 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest an idea for the back servers
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**What servers would you like this to be added to? (Server tags where possible please)**
+[Server Tags: vgc, panama, event, bluesaber, fabric, limbo, dragoon]
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**What would you like added?**
+[Say here what you want added to the server(s) above]
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**How would this help the server and what would be the use-case for adding it?**
+[Explain why adding what was mentioned above would help the server]
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Any videos/photos demonstrating the thing(s) above?**
+[Link here any videos/photos that would help us see what you want added]
+
+**Link to download**
+[Place the download link here. Please use the download link from its distribution platform (e.g. SpigotMC, Modrinth, CurseForge, etc.)]
