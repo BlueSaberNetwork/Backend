@@ -2,7 +2,7 @@
 name: Bug report
 about: Find something wrong while playing or something was corrupted? Use this
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
