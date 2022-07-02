@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for the back servers
+about: Suggest an idea for the backend servers
 title: ''
 labels: ''
 assignees: ''
